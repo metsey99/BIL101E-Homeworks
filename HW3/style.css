@@ -1,0 +1,35 @@
+body {
+	background-color: blue;
+}
+#content{
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: white;
+	height: 850px;
+	margin-top: 10px;
+	text-align:center;
+}
+#header{
+	height: 80px;
+	background-color: red;
+}
+#menu{
+	color: white;
+	float: right;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+#logo{
+	color: white;
+	float: left;
+}
+table{
+	border-collapse: collapse;
+	margin-top: 10px;
+	text-align: center;
+	}
+td {
+	border: 1px black solid;
+}
